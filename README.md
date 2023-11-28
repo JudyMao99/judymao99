@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: judymao99@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a street dance & kpop dancer.
-[![Judy's github stats](https://github-readme-stats.vercel.app/api?username={{JudyMao99}}&theme=dark)](https://github.com/{{JudyMao99}}/github-readme-stats)
+
+
+[![Judy's github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
