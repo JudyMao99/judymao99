@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about React.js
 - 📫 How to reach me: judymao99@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I am a street dance & kpop dancer.
+- ⚡ Fun fact: I am a street dancer & kpop dancer.
