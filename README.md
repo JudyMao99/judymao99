@@ -2,9 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in The University of Melbourne (UniMelb)
-- 🔭 I’m also currently working as an internship in SSW Consulting
-- 🌱 I’m currently learning to be a full-stack programmer
+- 🔭 I’m a fresh graduate from The University of Melbourne (UniMelb)
+- 👩🏻‍💼 I have work experience in Software Development (Frontend), AI Engineering, IT consulting and UI Design.
 - 👯 I’m looking to collaborate on creating fun application/website
 - 🤔 I’m looking for help with my backend and database skills
 - 💬 Ask me about React.js
